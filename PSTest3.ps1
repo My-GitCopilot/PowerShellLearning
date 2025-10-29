@@ -1,5 +1,3 @@
-# Define connection string
-#$connectionString = "Server=Batham-PC;Database=MyAppDb;User Id=sa;Password=admin@123;Encrypt=True;TrustServerCertificate=True;"
 
 # Path to your appsettings.json file
 $appSettingsPath = "C:\MyProjects\CleanArchitechture\MyApp.Api\appsettings.json"
